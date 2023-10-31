@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">An enthusiastic programmer from Crimea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyman3413&label=Profile%20views&color=0e75b6&style=flat" alt="tyman3413" /> </p>
+<img align="right" alt="Coding" width=400 src="https://i.postimg.cc/zfJyXz3j/lexica-avatar.png">
+
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Tyman3413?tab=followers)
 
 - 🔭 I’m currently working on [BookLounge](https://github.com/Tyman3413/BookLounge)
 
-- 🌱 I’m currently learning: **Nest.js, Flutter**
+- 🌱 I’m currently learning: **Nest.js, Flutter, PostgreSQL**
 
 - 📫 How to reach me: **tyman3413@gmail.com**
 
-- ⚡ Fun fact: **eat(); sleep(); code(); repeat();**
+- ⚡ Important quote: **eat(); sleep(); code(); repeat();**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/tyman3413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyman3413" height="30" width="40" /></a>
+<a href="https://t.me/Tyman3413" target="blank"><img align="center" src="https://i.postimg.cc/4Kc1dswp/telegram-256x256.png" alt="tyman3413" height="30" width="30"></a>
 <a href="https://www.youtube.com/c/tyman3413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tyman3413" height="30" width="40" /></a>
+<a href="https://instagram.com/tyman3413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyman3413" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
