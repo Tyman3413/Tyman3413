@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [BookLounge](https://github.com/Tyman3413/BookLounge)
 
-- 🌱 I’m currently learning **Nest.js, Flutter**
+- 🌱 I’m currently learning: **Nest.js, Flutter**
 
-- 📫 How to reach me **tyman3413@gmail.com**
+- 📫 How to reach me: **tyman3413@gmail.com**
 
-- ⚡ Fun fact **eat(); sleep(); code(); repeat();**
+- ⚡ Fun fact: **eat(); sleep(); code(); repeat();**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
