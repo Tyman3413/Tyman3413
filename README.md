@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">An enthusiastic programmer from Crimea</h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="40" height="40" /> Hi, I'm Victor</h1>
+<h3 align="center">An enthusiastic programmer from Crimea <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Russia.webp" alt="Flag Russia" width="40" height="40" /></h3>
 
 <img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Tyman3413?tab=followers)
+[![Sparkline](https://stars.medv.io/nodejs/node.svg)](https://stars.medv.io/nodejs/node)
 
-- 🔭 I’m currently working on [BookLounge](https://github.com/Tyman3413/BookLounge)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> I’m currently working on [BookLounge](https://github.com/Tyman3413/BookLounge)
 
-- 🌱 I’m currently learning: **Nest.js, Flutter, PostgreSQL**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="25" height="25" /> I’m currently learning: **Nest.js, Flutter, PostgreSQL**
 
-- 📫 How to reach me: **tyman3413@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /> How to reach me: **tyman3413@gmail.com**
 
-- ⚡ Important quote: **eat(); sleep(); code(); repeat();**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> Important quote: **eat(); sleep(); code(); repeat();**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
